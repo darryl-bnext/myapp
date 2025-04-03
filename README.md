@@ -1,6 +1,6 @@
-### My applications
+### My application
 
-my application
+Test application
 
 ### Installation
 

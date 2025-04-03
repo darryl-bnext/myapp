@@ -1,8 +1,8 @@
 app_name = "myapp"
-app_title = "My applications"
-app_publisher = "Daryl"
-app_description = "my application"
-app_email = "darryl@gmail.com"
+app_title = "My application"
+app_publisher = "darryl"
+app_description = "Test application"
+app_email = "darryl@test.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "myapp",
 # 		"logo": "/assets/myapp/logo.png",
-# 		"title": "My applications",
+# 		"title": "My application",
 # 		"route": "/myapp",
 # 		"has_permission": "myapp.api.permission.has_app_permission"
 # 	}
